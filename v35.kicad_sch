@@ -9656,6 +9656,15 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "C25804"
+			(at 181.61 204.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "26394bd8-141c-4a97-8a1b-052b0c012c57")
 		)
@@ -9715,6 +9724,15 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
+			(at 181.61 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "C25804"
 			(at 181.61 163.83 0)
 			(effects
 				(font
@@ -9790,6 +9808,15 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "C25804"
+			(at 181.61 201.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "f31353df-3323-4ea3-b696-a02d82cc88cb")
 		)
@@ -9857,6 +9884,15 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "C25804"
+			(at 181.61 158.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "a9c68b74-ed27-40a1-9314-8da4a92cee0d")
 		)
@@ -9916,6 +9952,15 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
+			(at 340.36 160.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "C25804"
 			(at 340.36 160.02 0)
 			(effects
 				(font
@@ -10128,6 +10173,15 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
+			(at 181.61 207.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "C25804"
 			(at 181.61 207.01 0)
 			(effects
 				(font
@@ -10795,6 +10849,15 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "C25804"
+			(at 181.61 196.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "9eb5acda-b1fa-4610-94d5-f3a488032101")
 		)
@@ -10920,6 +10983,15 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
+			(at 181.61 220.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "C25804"
 			(at 181.61 220.98 0)
 			(effects
 				(font
@@ -11140,6 +11212,15 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "C25804"
+			(at 181.61 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "7a418a20-6396-4b69-9df3-3f4ab1d9e1ab")
 		)
@@ -11199,6 +11280,15 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
+			(at 340.36 166.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "C25804"
 			(at 340.36 166.37 0)
 			(effects
 				(font
@@ -11409,7 +11499,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "C14663"
+		(property "MPN" "C15849"
 			(at 77.47 40.64 0)
 			(effects
 				(font
@@ -11477,6 +11567,15 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
+			(at 340.36 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "C25804"
 			(at 340.36 130.81 0)
 			(effects
 				(font
@@ -11610,6 +11709,15 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
+			(at 181.61 190.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "C25804"
 			(at 181.61 190.5 0)
 			(effects
 				(font
@@ -11817,6 +11925,15 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "C25804"
+			(at 181.61 185.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "de998c80-2074-4c7a-8441-abddf4f74bc4")
 		)
@@ -11884,6 +12001,15 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "C25804"
+			(at 181.61 180.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "106aa3ad-30a4-4e08-8a84-d249d6971423")
 		)
@@ -11943,6 +12069,15 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
+			(at 181.61 187.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "C25804"
 			(at 181.61 187.96 0)
 			(effects
 				(font
@@ -12076,6 +12211,15 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
+			(at 181.61 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "C25804"
 			(at 181.61 177.8 0)
 			(effects
 				(font
@@ -12538,6 +12682,15 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
+			(at 181.61 231.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "C25804"
 			(at 181.61 231.14 0)
 			(effects
 				(font
@@ -13140,6 +13293,15 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "C25804"
+			(at 181.61 199.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "19ec97be-cf8c-4bca-8722-ed66fca71f13")
 		)
@@ -13199,6 +13361,15 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
+			(at 181.61 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "C25804"
 			(at 181.61 175.26 0)
 			(effects
 				(font
@@ -13332,6 +13503,15 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
+			(at 181.61 172.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "C25804"
 			(at 181.61 172.72 0)
 			(effects
 				(font
@@ -13832,6 +14012,15 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "C25804"
+			(at 181.61 182.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "53b3babf-69a4-44b1-8be0-1effc8056847")
 		)
@@ -13978,6 +14167,15 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "C25804"
+			(at 181.61 223.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "9ba1abc2-813d-4525-8197-c8c22f10a8e3")
 		)
@@ -14037,6 +14235,15 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
+			(at 181.61 228.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "C25804"
 			(at 181.61 228.6 0)
 			(effects
 				(font
@@ -14169,6 +14376,15 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
+			(at 340.36 162.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "C25804"
 			(at 340.36 162.56 0)
 			(effects
 				(font
@@ -15079,7 +15295,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "C14663"
+		(property "MPN" "C15849"
 			(at 88.9 40.64 0)
 			(effects
 				(font
@@ -15300,6 +15516,15 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "C25804"
+			(at 181.61 209.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "32167d0c-4745-4ad1-bf01-17f9a7299449")
 		)
@@ -15446,6 +15671,15 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "C25804"
+			(at 340.36 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "d5c544ca-a530-4616-9492-35b1edf4407d")
 		)
@@ -15513,6 +15747,15 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "C25804"
+			(at 181.61 212.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "ef41ce56-8b94-4888-81fa-4aa126486a9f")
 		)
@@ -15572,6 +15815,15 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
+			(at 181.61 214.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "C25804"
 			(at 181.61 214.63 0)
 			(effects
 				(font
